@@ -1,0 +1,27 @@
+# Web UI
+streamlit>=1.42.0
+pandas>=2.0.0
+Authlib>=1.3.2
+
+# Agent Framework & LLM
+langchain
+langchain-google-genai
+google-generativeai
+
+# Database (Google Sheets) & Drive
+gspread
+oauth2client
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# Toolchain (Scraping & Search)
+playwright
+tavily-python
+
+# Environment Variable Management
+python-dotenv
+
+# auth google
+st-gsheets-connection
+google-auth-oauthlib
